@@ -63,6 +63,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * THG, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Imago, [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/), M13 9PL
+* INEVITABLE, [inevitableinnovations.com](https://inevitableinnovations.com/), M3 4AP
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
 * Intechnica, [intechnica.com](https://intechnica.com/), M3 2EG
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
